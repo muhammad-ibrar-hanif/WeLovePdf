@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <SpaRoot>..\welovepdf.client</SpaRoot>
     <SpaProxyLaunchCommand>npm run dev</SpaProxyLaunchCommand>
-    <SpaProxyServerUrl>https://localhost:62694</SpaProxyServerUrl>
+    <SpaProxyServerUrl>https://localhost:7041</SpaProxyServerUrl>
   </PropertyGroup>
 
   <ItemGroup>
