@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="welovepdf.client/welovepdf.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="WeLovePdf.Server.Tests/WeLovePdf.Server.Tests.csproj" />
+  <Project Path="WeLovePdf.Server/WeLovePdf.Server.csproj" />
+</Solution>

@@ -1,0 +1,6 @@
+@WeLovePdf.Server_HostAddress = http://localhost:5159
+
+GET {{WeLovePdf.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
