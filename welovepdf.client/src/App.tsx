@@ -2,8 +2,6 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import MergePdf from "./pages/MergePdf";
 import SplitPdf from "./pages/SplitPdf";
-
-
 export default function App() {
     return (
         <BrowserRouter>
